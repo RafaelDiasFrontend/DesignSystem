@@ -1,4 +1,0 @@
-{
-  "extends": "@cisney-ui/ts-config/base.json",
-  "include": ["src"]
-}
